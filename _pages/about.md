@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Postdoctoral Researcher</p>
     <p>Harvard University</p><br/>
-    <p>sluest@g.harvard.edu</p>
+    <p><a href="mailto:sluest@g.harvard.edu">sluest@g.harvard.edu</a></p>
 
 ---
 <p>
